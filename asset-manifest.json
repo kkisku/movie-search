@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/kkisku/movie-search/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/kkisku/movie-search/static/js/main.1dc0be77.chunk.js",
-    "main.js.map": "/kkisku/movie-search/static/js/main.1dc0be77.chunk.js.map",
-    "runtime-main.js": "/kkisku/movie-search/static/js/runtime-main.137025f4.js",
-    "runtime-main.js.map": "/kkisku/movie-search/static/js/runtime-main.137025f4.js.map",
-    "static/js/2.17a0158d.chunk.js": "/kkisku/movie-search/static/js/2.17a0158d.chunk.js",
-    "static/js/2.17a0158d.chunk.js.map": "/kkisku/movie-search/static/js/2.17a0158d.chunk.js.map",
-    "static/js/3.170738cc.chunk.js": "/kkisku/movie-search/static/js/3.170738cc.chunk.js",
-    "static/js/3.170738cc.chunk.js.map": "/kkisku/movie-search/static/js/3.170738cc.chunk.js.map",
-    "index.html": "/kkisku/movie-search/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/kkisku/movie-search/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.17a0158d.chunk.js.LICENSE.txt": "/kkisku/movie-search/static/js/2.17a0158d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/kkisku/movie-search/static/media/logo.6ce24c58.svg"
+    "main.css": "/movie-search/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/movie-search/static/js/main.1dc0be77.chunk.js",
+    "main.js.map": "/movie-search/static/js/main.1dc0be77.chunk.js.map",
+    "runtime-main.js": "/movie-search/static/js/runtime-main.7b5f0834.js",
+    "runtime-main.js.map": "/movie-search/static/js/runtime-main.7b5f0834.js.map",
+    "static/js/2.17a0158d.chunk.js": "/movie-search/static/js/2.17a0158d.chunk.js",
+    "static/js/2.17a0158d.chunk.js.map": "/movie-search/static/js/2.17a0158d.chunk.js.map",
+    "static/js/3.170738cc.chunk.js": "/movie-search/static/js/3.170738cc.chunk.js",
+    "static/js/3.170738cc.chunk.js.map": "/movie-search/static/js/3.170738cc.chunk.js.map",
+    "index.html": "/movie-search/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/movie-search/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.17a0158d.chunk.js.LICENSE.txt": "/movie-search/static/js/2.17a0158d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/movie-search/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.137025f4.js",
+    "static/js/runtime-main.7b5f0834.js",
     "static/js/2.17a0158d.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.1dc0be77.chunk.js"
